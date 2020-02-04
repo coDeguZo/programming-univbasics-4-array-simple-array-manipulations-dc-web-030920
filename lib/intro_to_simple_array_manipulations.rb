@@ -53,7 +53,7 @@ def using_insert(array, element)
 end
 
 
-def using_uniq
+def using_uniq(array)
   
 end
 

@@ -4,12 +4,13 @@ def using_push(array, string)
 end
 
 
-def using_unshift
-  
+def using_unshift(array, string)
+  bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+  bouroughs_in_nyc.unshift(string)
 end
 
 
-def using_pop
+def using_pop(array)
   
 end
 

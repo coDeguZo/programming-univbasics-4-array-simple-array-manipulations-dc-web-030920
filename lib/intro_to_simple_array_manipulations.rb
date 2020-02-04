@@ -25,6 +25,7 @@ end
 
 
 def using_shift(array)
+  @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   
 end
 

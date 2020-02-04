@@ -55,7 +55,7 @@ end
 
 def using_uniq(array)
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
-  
+  array = haircuts.unique
 end
 
 

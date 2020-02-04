@@ -69,8 +69,8 @@ end
 
 def using_delete(array, string)
    instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-  array = instructors.delete(string)
-  array
+  array_delete = instructors.delete(string)
+  array_delete
 end
 
 
